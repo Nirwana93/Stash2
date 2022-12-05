@@ -1,12 +1,13 @@
 # Stash2
 
+Creating Peer to Peer Lending website using ASP.Net
+
 In the project directory, you can run:
 
 Runs the app in the development mode
 
 Open http://localhost:56942/ to view it in your browser.
 
-Creating Peer to Peer Lending website using ASP.Net
 
 ### Frontend
 
