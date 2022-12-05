@@ -27,3 +27,5 @@ Open http://localhost:56942/ to view it in your browser.
 | --- | --- |
 | TEST | &#9744; |
 | ... | &#9744; |
+
+Trying out the connection for SQL Database in progress. 
