@@ -30,6 +30,8 @@ Loan to Value calculation displayed on the calculator page:
 
 
 
+Create Get Started button to link to Registration page.
+
 
 ### Backend Database
 
