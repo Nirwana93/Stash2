@@ -4,7 +4,7 @@ Creating Peer to Peer Lending website using ASP.Net
 
 In the project directory, you can run:
 
-Runs the app in the development mode
+Run the website in the development mode
 
 Open http://localhost:56942/ to view it in your browser.
 
