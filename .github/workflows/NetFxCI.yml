@@ -30,9 +30,9 @@ jobs:
       uses: NuGet/setup-nuget@v1.1.1
       
     - name: Restore Nuget Packages
-      run: nuget restore BugGuardian.WebForms.sln 
+      run: nuget restore BugGuardian.MVC.sln 
       
     - name: Build the solution
-      run: msbuild BugGuardian.WebForms.sln
+      run: msbuild BugGuardian.MVC.sln
      
    
